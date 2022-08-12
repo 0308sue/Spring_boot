@@ -1,0 +1,14 @@
+package com.mongo.dao;
+
+public class MongoDAO {
+	private static MongoDAO dao = new MongoDAO();
+	
+	public static MongoDAO getInstance() {
+		return dao;
+	}
+
+	public void insert(Employee emp) {
+		// TODO Auto-generated method stub
+		
+	}
+}

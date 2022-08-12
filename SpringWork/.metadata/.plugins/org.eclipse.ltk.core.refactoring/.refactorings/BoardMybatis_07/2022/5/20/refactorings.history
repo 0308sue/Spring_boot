@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;file&apos;&#x0D;&#x0A;- Original project: &apos;BoardMybatis_07&apos;&#x0D;&#x0A;- Destination element: &apos;file&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     fileList.jsp&#x0D;&#x0A;     fileboardInsert.jsp" description="Copy files" element1="src/main/webapp/WEB-INF/views/fileList.jsp" element2="src/main/webapp/WEB-INF/views/fileboardInsert.jsp" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1652404358331" target="/demo4/src/main/webapp/WEB-INF/views/file" units="0" version="1.0"/>
+</session>

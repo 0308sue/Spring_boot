@@ -1,0 +1,5 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>\uCD9C\uCC28,\uAC80\uC0C9 \uCC3D \uAC1C\uC120 \uD574\uC57C\uD568</message>\r\n<message>config,config.auth,service,controller \uD328\uD0A4\uC9C0 \uC0DD\uC131,security \uC124\uC815</message>\r\n<message>pom.xml jasper,jstl,security-taglibs \uCD94\uAC00</message>\r\n<message>parkinglot create project</message>\r\n<message>5/3\uC77C \uBCF4\uB4DC \uC644\uC131(\uD68C\uC6D0 \uBCC0\uACBD,\uD0C8\uD1F4 \uCD94\uAC00)</message>\r\n<message>5/3 \uD648\uD398\uC774\uC9C0 \uC644\uC131&\#x0A;</message>\r\n<message>board,comment</message>\r\n<message>\uBE44\uB3D9\uAE30 \uD568\uC218 \uC0AC\uC6A9</message>\r\n<message>4/27 mybatis\uBCF5\uC2B5</message>\r\n<message>mybatis\uC774\uC6A9 \uD574\uC11C \uB514\uBE44 \uC5F0\uACB0,\uAC80\uC0C9 \uCD94\uAC00</message>\r\n</messages>
+eclipse.preferences.version=1
+repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300

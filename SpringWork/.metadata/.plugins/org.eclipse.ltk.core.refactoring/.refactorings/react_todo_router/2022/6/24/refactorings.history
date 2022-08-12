@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.react_todo_router.mapper.Todo&apos; to &apos;TodoMapper&apos;&#x0D;&#x0A;- Original project: &apos;react_todo_router&apos;&#x0D;&#x0A;- Original element: &apos;com.example.react_todo_router.mapper.Todo&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.react_todo_router.mapper.TodoMapper&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Todo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.react_todo_router.mapper{Todo.java[Todo" matchStrategy="1" name="TodoMapper" qualified="false" references="true" similarDeclarations="false" stamp="1654738766823" textual="false" version="1.0"/>
+</session>

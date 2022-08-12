@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Thu Jul 28 11:20:15 KST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\admin\\.m2\\repository\\org\\springframework\\spring-web\\5.3.20\\spring-web-5.3.20.jar=WEB-INF/lib/spring-web-5.3.20.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\admin\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-el\\9.0.62\\tomcat-embed-el-9.0.62.jar=WEB-INF/lib/tomcat-embed-el-9.0.62.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\admin\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-jasper\\9.0.62\\tomcat-embed-jasper-9.0.62.jar=WEB-INF/lib/tomcat-embed-jasper-9.0.62.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\admin\\.m2\\repository\\org\\springframework\\spring-web\\5.3.19\\spring-web-5.3.19.jar=WEB-INF/lib/spring-web-5.3.19.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\admin\\.m2\\repository\\org\\springframework\\spring-web\\5.2.9.RELEASE\\spring-web-5.2.9.RELEASE.jar=WEB-INF/lib/spring-web-5.2.9.RELEASE.jar
